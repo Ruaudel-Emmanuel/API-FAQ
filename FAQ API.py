@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 API_URL = "https://api.perplexity.ai/chat/completions"
-API_KEY = "Placez ici votre clé API"
+API_KEY = "sk-demoEXAMPLEKEY1234567890abcdef"
 
 HTML = """
 <h1>FAQ Dynamique IA</h1>
@@ -37,3 +37,4 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
