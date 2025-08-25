@@ -7,7 +7,6 @@ Ce projet est une **application Flask** qui sert d’interface simple pour inter
 - Python 3.8 ou plus récent[^1]
 - Pip (gestionnaire de paquets Python)
 - Un accès internet
-- Une clé API Perplexity valide (fournie dans le script ou à remplacer pour la vôtre)
 
 
 ## Installation
